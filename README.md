@@ -49,4 +49,4 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the MIT Licence
+This project is licensed under the GNU General Public License v2.0
